@@ -1,0 +1,52 @@
+.birthday {
+  display: flex;
+  justify-content: center;
+}
+
+.party {
+  padding: 0 2rem;
+}
+
+.hi {
+  text-align: center;
+  margin-top: 2.5rem;
+  padding: 0;
+}
+
+.explain__caption {
+  font-size: 85%;
+  margin-top: 5px;
+  width: 80%;
+}
+
+.explain__img {
+  display: block;
+  padding: 0.5rem 0 0;
+  width: 250px;
+}
+
+
+.see-why-container {
+}
+
+.see-why {
+  box-shadow: 2px 2px 5px #111;
+  background: #FFF;
+  border: 1px solid #999;
+  border-radius: 5px;
+  display: block;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 15px 10px;
+  margin-top: 2rem;
+  text-transform: uppercase;
+
+  &:active {
+    box-shadow: -1px -1px 1px #000;
+  }
+
+  span {
+    font-size: 10px;
+    vertical-align: middle;
+  }
+}
