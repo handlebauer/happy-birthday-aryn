@@ -6,7 +6,7 @@
     "axios": "0.18.0",
     "classnames": "2.2.6",
     "markovchain": "1.0.2",
-    "node-sass": "4.9.4",
+    "node-sass": "4.13.1",
     "normalize.css": "8.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
